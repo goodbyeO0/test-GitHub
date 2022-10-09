@@ -1,0 +1,5 @@
+--New plans in the future--
+
+Learn Javascript.
+Learn CSS framework, django, lumpy.
+Learn Data Structures and Algoritms
