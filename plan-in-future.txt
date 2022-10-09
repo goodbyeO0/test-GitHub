@@ -3,3 +3,4 @@
 Learn Javascript.(two playlist)
 Learn CSS framework, django, lumpy.(CSS framwork first)
 Learn Data Structures and Algoritms.(Last)
+Make my own websites and apps.
