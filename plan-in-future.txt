@@ -2,5 +2,6 @@
 
 Learn Javascript.(two playlist)
 Learn CSS framework, django, lumpy.(CSS framwork first)
-Learn Data Structures and Algoritms.(Last)
+Learn Data Structures and Algoritms.
+Watch Sonny.
 Make my own websites and apps.
