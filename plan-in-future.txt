@@ -1,7 +1,10 @@
 --New plans in the future--
 
 Learn Javascript.(two playlist)
+Learn Data Structures and Algoritms.
+Watch Sonny.
+Make my own websites and apps.
 Learn CSS framework, react, django, lumpy.(CSS framwork first)   
 Learn Object Oriented Programming.
 Learn Data Structures and Algoritms.(Last)
-Make my own website and app.
+Make my own websites and apps.
