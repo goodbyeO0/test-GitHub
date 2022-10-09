@@ -1,5 +1,5 @@
 --New plans in the future--
 
-Learn Javascript.
-Learn CSS framework, django, lumpy.
-Learn Data Structures and Algoritms
+Learn Javascript.(two playlist)
+Learn CSS framework, django, lumpy.(CSS framwork first)
+Learn Data Structures and Algoritms.(Last)
